@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0">
+        <channel>
+            <title>Azzinoth News</title>
+            <link>https://twirkand.github.io/U7_Act1_Nauzet/index.html</link>
+            <description>¡Únete a nosotros en "Azzinoth News" para explorar este fascinante mundo junto a otros fanáticos de WoW!</description>
+            <item>
+                <title>Warcraft Rumble</title>
+                <link>https://news.blizzard.com/es-es/warcraftrumble/23802868/presentado-warcraft-rumble</link>
+                <description>Apuntaos a este nuevo juego adorable y desenfadado, donde vosotros estáis al mando. Warcraft Rumble™ es fácil de aprender y difícil de dominar. Pondrá a prueba las dotes de los jugadores a la hora de formar ejércitos en miniatura para superar los desafíos únicos de cada misión.</description>
+            </item>
+            <item>
+                <title>WoW The War Within</title>
+                <link>https://worldofwarcraft.blizzard.com/es-es/news/24080620/ap%C3%BAntate-para-probar-the-war-within</link>
+                <description>Adéntrate antes que nadie en World of Warcraft®: The War Within™. Si nos ayudas con las pruebas, te aventurarás por unos mundos subterráneos nunca vistos llenos de maravillas ocultas, te ganarás la confianza de los terráneos (una nueva raza aliada) y te enfrentarás a un antiguo mal que acecha en la oscuridad.</description>
+            </item>
+            <item>
+                <title>WoW Classic Season of Discovery</title>
+                <link>https://worldofwarcraft.blizzard.com/es-es/news/24078318/%C2%A1ya-est%C3%A1-disponible-la-fase-3-de-la-temporada-del-descubrimiento</link>
+                <description>Apunta la fecha en el calendario: la fase 3 de la Temporada del Descubrimiento llega el 4 de abril a las 22:00 CEST. Tus aventuras te llevarán del nivel 41 al 50, conseguirás hasta 10 puntos de talento adicionales, afrontarás los desafíos del Templo Sumergido (Templo de Atal'Hakkar) en una nueva mazmorra de banda para 20 jugadores, descubrirás nuevas runas y facultades, ¡y mucho más!</description>
+            </item>
+            <item>
+                <title>WoW Cataclysm Classic</title>
+                <link>https://worldofwarcraft.blizzard.com/es-es/news/24064846/el-parche-preliminar-de-la-expansi%C3%B3n-cataclysm-classic-llega-el-1-de-mayo</link>
+                <description>Has derrotado a los ejércitos no-muertos del Rey Exánime y has acabado con el reinado de Arthas. Ahora, Alamuerte el Rompemundos surge del corazón de la Vorágine y desata su ira. Todo arderá bajo la sombra de sus alas. Tu aventura comienza 1 de mayo con el parche preliminar de la expansión, la Devastación de Azeroth, y continuará con el lanzamiento de Cataclysm Classic el 21 de mayo a las 00:01 CEST en todo el mundo.</description>
+            </item>
+            <item>
+                <title>Puesto Comercial</title>
+                <link>https://worldofwarcraft.blizzard.com/es-es/news/24078321/el-puesto-comercial-de-abril-es-piratesco-%C2%A1y-primaveresco</link>
+                <description>Acepta el pirata que llevas dentro vistiendo los conjuntos más chulos de los siete mares y deléitate con la frescura primaveral que trae el puesto comercial durante este mes. Te lo vas a pasar en grande con la mascota Aura, un polluelo de pato mágico que te seguirá a todas partes.</description>
+            </item>
+            <item>
+                <title>Parche WoW Dragonflight</title>
+                <link>https://worldofwarcraft.blizzard.com/es-es/news/24064845/la-temporada-3-de-dragonflight-termina-el-23-de-abril</link>
+                <description>La temporada 3 de Dragonflight llegará a su fin el 23 de abril a las 22:00 CEST, la noche antes del mantenimiento en cada región. La temporada 4 dará comienzo justo a continuación. Echa un vistazo a nuestro artículo anterior si quieres más información. Te contamos todos los detalles sobre este cambio de temporadas.</description>
+            </item>
+        </channel>
+    </rss>
