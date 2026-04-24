@@ -1,3 +1,4 @@
+```java
 public boolean create(Employee employee) {
         Connection connection = null;
         try {
@@ -51,3 +52,4 @@ public boolean create(Employee employee) {
             PreparedStatement sentencia = connection.prepareStatement("DELETE FROM employee WHERE id=?");
             sentencia.setInt(1, id);
             return sentencia.executeUpdate() == 1;
+``
